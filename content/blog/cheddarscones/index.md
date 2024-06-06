@@ -4,7 +4,7 @@ summary: This buttery and savory scone is the perfect for a delicious breakfast.
 date: 2024-06-06
 authors:
   - admin
-image: /IMG_4189.jpg
+image: 
   caption: ''
 ---
 
@@ -16,4 +16,5 @@ Estimated Time:
 
 ## Instructions
 
-## Did you find this page helpful? Consider sharing it 🙌
+
+Did you find this page helpful? Consider sharing it 🙌
