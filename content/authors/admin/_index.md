@@ -29,7 +29,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/rishant107
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: # academicons/cv
+  - icon: academicons/cv
     url: # uploads/resume.pdf
     label: Download my resume
 
