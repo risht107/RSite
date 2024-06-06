@@ -3,8 +3,8 @@
 title: Rishan Tilve
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rishan
+last_name: Tilve
 
 # Is this the primary user of the site?
 superuser: true
