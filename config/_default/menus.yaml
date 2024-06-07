@@ -7,4 +7,4 @@ main:
     weight: 10
   - name: Contact Me
     url: uses/
-    weight: 30
+    weight: 20

@@ -1,6 +1,6 @@
 ---
 title: Blueberry Scones
-summary: This buttery and savory scone is the perfect for a delicious breakfast.
+summary: This soft and flaky scone is perfect for a delicious breakfast.
 date: 2024-06-06
 authors:
   - admin
