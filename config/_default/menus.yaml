@@ -4,4 +4,4 @@
 main:
   - name: Recipe Blog
     url: /
-    weight:
+    weight: 20
