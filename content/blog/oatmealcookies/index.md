@@ -8,9 +8,9 @@ image:
   caption: ''
 ---
 
-**bold** Serving Size: 18
+**Serving Size:** 18
 
-**bold** Estimated Time: 1 hour
+**Estimated Time:** 1 hour
 
 ## Ingredients
 
@@ -36,4 +36,4 @@ image:
 8. Store in airtight container at room temperature for up to 1 week or in freezer for 4 months. Unbaked cookie dough lasts in refrigerator for 5 days and in freezer for 4 months.
 
 
-# Did you find this page helpful? Consider sharing it 🙌
+**Did you find this page helpful? Consider sharing it 🙌**

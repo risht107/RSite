@@ -9,9 +9,9 @@ image:
   caption: ''
 ---
 
-**bold** Serving Size: 1 tray
+**Serving Size:** 1 loaf
 
-**bold** Estimated Time: 1.5 hours
+**Estimated Time:** 1.5 hours
 
 ## Ingredients
 
@@ -35,4 +35,4 @@ image:
 6. Pour batter into loaf pan. Bake for 50 minutes to an hour at 350F, or until knife comes out clean.
 7. Remove from oven and let cool. Slice and serve.
 
-# Did you find this page helpful? Consider sharing it 🙌
+** Did you find this page helpful? Consider sharing it 🙌 **

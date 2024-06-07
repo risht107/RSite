@@ -1,5 +1,5 @@
 ---
-title: Cheddar and Chive Scones
+title: Blueberry Scones
 summary: This buttery and savory scone is the perfect for a delicious breakfast.
 date: 2024-06-06
 authors:
@@ -8,13 +8,13 @@ image:
   caption: ''
 ---
 
-**bold** Serving Size: 8 scones
+**Serving Size:** 8 scones
 
-**bold** Estimated Time: 2 hours
+**Estimated Time:** 2 hours
 
 ## Ingredients
 
-*italic* Scones
+*Scones* 
 * 1 cup all-purpose flour
 * 1/4 cup sugar
 * 1 1/2 tsp baking powder
@@ -25,7 +25,7 @@ image:
 * 1 tsp vanilla extract
 * 2/3 cup fresh or frozen blueberries
 
-*italic* Streusel Topping
+*Streusel Topping*
 * 1/4 cup flour
 * 1 1/2 tbsp sugar (a little less will do)
 * 1 1/2 tbsp brown sugar
@@ -45,4 +45,4 @@ image:
 9. Cut the dough into the pieces, retaining the overall disk appearance. Space out enough to allow scones to expand. I separated them by about 1/2 inch. 
 10. Bake at 400F for about 30 minutes or until scones look golden brown. 
 
-# Did you find this page helpful? Consider sharing it 🙌
+**Did you find this page helpful? Consider sharing it 🙌**
