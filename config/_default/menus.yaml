@@ -5,9 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
+  - name: Photos
     url: tags/
     weight: 20
-  - name: Uses
+  - name: Contact Me
     url: uses/
     weight: 30

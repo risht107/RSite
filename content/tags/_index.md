@@ -1,3 +1,4 @@
 ---
-title: Topics
+title: Photo Gallery
+type: landing
 ---
