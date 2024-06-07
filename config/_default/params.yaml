@@ -27,7 +27,7 @@ marketing:
     baidu: ''
 
 # Site header
-header: ''
+header: 
   navbar:
     enable: true
     show_search: true
