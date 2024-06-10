@@ -20,10 +20,5 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '20rem', 0]
-  - block: contact
-    content:
-      form:
-        provider: netlify
-          captcha: true
         
 ---
