@@ -37,4 +37,4 @@ highlight_name: true
 website: ""
 ---
 
-Welcome to my website! Here you can find my latest recipes with step-by-step instructions. I hope you enjoy them! 
+Welcome to my website! Here you can find my latest recipes with step-by-step instructions. They are the best you'll find and you are sure to enjoy them!
