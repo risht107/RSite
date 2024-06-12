@@ -1,7 +1,7 @@
 ---
 title: Blueberry Scones
 summary: This soft and flaky scone is perfect for a delicious breakfast.
-date: 2024-06-06
+date: 2024-06-07
 authors:
   - admin
 image: 
