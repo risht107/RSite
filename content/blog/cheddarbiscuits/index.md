@@ -27,6 +27,7 @@ image:
 
 ## Instructions
 
+1. Preheat oven to 400$^\circ$F and prepare a lined, nonstick baking sheet. 
 2. In a bowl, mix together the flour, sugar, baking powder, salt, and garlic powder. 
 3. Cut the butter into small pieces and ensure it is cold. Add the butter and grind into the dry ingredients. Should result in a course mixture, almost like sand.  
 4. Make a well and add the heavy cream and flax egg. Mix with fork until *almost* combined. Add the cheese and chives. Finish mixing the dough until fully combined. It should come together and form one giant ball. 
