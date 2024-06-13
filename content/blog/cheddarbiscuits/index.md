@@ -36,6 +36,6 @@ image:
   + In a bowl, mix 1.5 tbsp melted butter, oregano, basil, garlic powder, and chili flakes (eye ball all of it to your liking)
   + Evenly spread on all warm biscuits to add extra flavor!
   
-
+*Adapted from [Broma Bakery](https://bromabakery.com/cheddar-chive-scones/)*
 
 **Did you find this page helpful? Consider sharing it 🙌**

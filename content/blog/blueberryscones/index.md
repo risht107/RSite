@@ -45,4 +45,6 @@ image:
 9. Cut the dough into the pieces, retaining the overall disk appearance. Space out enough to allow scones to expand. I separated them by about 1/2 inch. 
 10. Bake at 400F for about 30 minutes or until scones look golden brown. 
 
+*Adapted from [Broma Bakery](https://bromabakery.com/blueberry-streusel-scones/)*
+
 **Did you find this page helpful? Consider sharing it 🙌**
